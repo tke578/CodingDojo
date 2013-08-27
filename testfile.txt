@@ -1,1 +1,7 @@
 Is this really working?
+
+1. I did a git init on the directory i want to push my files.
+2. I did a git add to add the files to the staging area
+3. I did a git commit to commit the changes.
+4. I did a git remote add origin url to the github respository i want to push
+5. I did a git push -u origin master
